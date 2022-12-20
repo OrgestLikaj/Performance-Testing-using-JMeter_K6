@@ -1,0 +1,18 @@
+--->Performance Testing
+ 
+--> JMeter
+
+https://www.youtube.com/watch?v=xAnSZMGO-xE&list=PLIMhDiITmNrLcYc00erJ9T36rxShFHuIS&ab_channel=TestingWorld
+
+--> StresStimulus
+
+https://www.stresstimulus.com/
+ 
+
+--> API Testing & Automation
+
+--> Postman
+
+http://todo.ly/ApiWiki/
+https://documenter.getpostman.com/view/8858534/SW7dX7JG#1f002ceb-059c-4c08-b027-53a83bfad467
+https://www.postman.com/marmikupadhyay/workspace/marmik-upadhyay-s-public-workspace/request/11601749-64cea12c-0fe3-4305-8fa2-ffefd5d5aa50
